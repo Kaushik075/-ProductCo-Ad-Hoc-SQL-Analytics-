@@ -57,3 +57,6 @@ Star Schema with Fact + Dimension tables:
 - Segment users by adoption speed and compare ARPU & churn.  
 
 ---
+# OUTPUT 
+
+<img width="1860" height="8398" alt="Image" src="https://github.com/user-attachments/assets/d3034849-8aa0-4436-93e5-c7bfa1c33e32" />
