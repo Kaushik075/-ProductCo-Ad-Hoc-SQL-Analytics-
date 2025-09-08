@@ -59,4 +59,4 @@ Star Schema with Fact + Dimension tables:
 ---
 # OUTPUT 
 
-<img width="1860" height="8398" alt="Image" src="https://github.com/user-attachments/assets/d3034849-8aa0-4436-93e5-c7bfa1c33e32" />
+<img width="1624" height="2552" alt="Image" src="https://github.com/user-attachments/assets/fa23793c-8e80-4bab-8fa3-e1f58fe03600" />
