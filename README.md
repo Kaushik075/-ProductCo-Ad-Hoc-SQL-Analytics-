@@ -1,4 +1,4 @@
-# 🚀 ProductCo Ad Hoc SQL Analytics Project  
+# 🚀 ProductCo Ad Hoc Analytics 
 
 ## 📌 Overview  
 This project simulates **real-world ad hoc analytics** in a **product-based SaaS company**, solving advanced business problems using SQL on a dataset of **2M+ transactions**.  
