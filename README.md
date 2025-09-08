@@ -61,5 +61,6 @@ Star Schema with Fact + Dimension tables:
 
 <img width="1624" height="2552" alt="Image" src="https://github.com/user-attachments/assets/fa23793c-8e80-4bab-8fa3-e1f58fe03600" />
 <img width="1860" height="2752" alt="Image" src="https://github.com/user-attachments/assets/ca055491-e9b9-4c35-8178-5d64aa0bd823" />
+<img width="1792" height="1990" alt="Image" src="https://github.com/user-attachments/assets/591d5b84-46ca-4043-af0c-df0fc3b28e1b" />
 
 
