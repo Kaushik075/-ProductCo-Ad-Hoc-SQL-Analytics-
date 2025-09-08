@@ -67,3 +67,4 @@ Star Schema with Fact + Dimension tables:
 # Queries
 
 <img width="2048" height="2262" alt="Image" src="https://github.com/user-attachments/assets/f1ad6ee2-dd16-46c2-976e-c42eda2b9f64" />
+<img width="2048" height="3546" alt="Image" src="https://github.com/user-attachments/assets/76fd9252-2300-40da-a203-5cd40e915f14" />
