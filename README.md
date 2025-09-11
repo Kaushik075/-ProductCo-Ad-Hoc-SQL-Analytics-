@@ -28,7 +28,6 @@ Star Schema with Fact + Dimension tables:
   - `fact_upgrades`  
   - `fact_cohorts`  
 
-📊 See schema ERD → ![ERD](images/schema.png)  
 
 ---
 
