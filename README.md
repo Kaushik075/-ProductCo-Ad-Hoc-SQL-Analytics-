@@ -5,7 +5,7 @@ This project simulates **real-world ad hoc analytics** in a **product-based SaaS
 
 The focus is on **end-to-end analytics**:  
 - Schema design (fact + dimension tables)  
-- Ad hoc SQL queries (advanced CTEs, window functions, cohorts, churn detection)  
+- Ad hoc SQL queries (advanced CTEs, window functions, cohorts, churn detection) 
 - Insights + recommendations  
 
 ---
